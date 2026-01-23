@@ -51,4 +51,4 @@ temp/
 # ===============================
 # Model files (OPTIONAL)
 # ===============================
-catboost_model.cbm
+#catboost_model.cbm
