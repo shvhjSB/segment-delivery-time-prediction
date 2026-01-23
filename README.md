@@ -1,8 +1,12 @@
 # 🚚 Segment Delivery Time Prediction (ML + Streamlit)
 
+🚀 **Live Streamlit App:**  
+👉 https://segment-delivery-time-prediction-marxks6dvhw22ky5np5bb5.streamlit.app
+
 > **End-to-end Machine Learning project to predict segment-level delivery time using real-world logistics data, advanced feature engineering, and CatBoost regression, deployed via a Streamlit web application.**
 
 ---
+
 
 ## 📌 Problem Statement
 
