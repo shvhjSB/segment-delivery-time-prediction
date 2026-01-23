@@ -80,22 +80,6 @@ Please download the dataset separately and place it as instructed in the noteboo
 
 ---
 
-## 📂 Project Structure
-
-segment-delivery-time-prediction/
-│
-├── app.py                  # Streamlit application
-├── model_utils.py          # Inference & preprocessing logic
-├── catboost_model.cbm      # Trained CatBoost model
-├── feature_schema.json     # Feature order & schema
-├── requirements.txt        # Project dependencies
-│
-├── notebooks/
-│   └── final_model.ipynb   # Model training & experimentation
-│
-└── README.md
-
-
 ## 🚀 Running the Project Locally
 
 1️⃣ Clone the repository
