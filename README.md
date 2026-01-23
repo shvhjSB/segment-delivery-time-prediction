@@ -95,19 +95,6 @@ segment-delivery-time-prediction/
 │
 └── README.md
 
-segment-delivery-time-prediction/
-│
-├── app.py                  # Streamlit application
-├── model_utils.py          # Inference & preprocessing logic
-├── catboost_model.cbm      # Trained CatBoost model
-├── feature_schema.json     # Feature order & schema
-├── requirements.txt        # Project dependencies
-│
-├── notebooks/
-│   └── final_model.ipynb   # Model training & experimentation
-│
-└── README.md
-
 
 ## 🚀 Running the Project Locally
 
@@ -126,13 +113,6 @@ pip install -r requirements.txt
 4️⃣ Run the Streamlit app
 streamlit run app.py
 
-
-🖥️ Streamlit Application
-
--->Clean, user-friendly UI
--->Automatic feature preprocessing
--->Real-time delivery time prediction
--->Robust handling of categorical and numerical inputs
 
 ## 📈 Future Improvements
 
