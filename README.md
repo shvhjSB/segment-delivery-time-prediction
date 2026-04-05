@@ -107,7 +107,7 @@ streamlit run app.py
 - K-Fold cross-validation for stronger generalization  
 - Model explainability using SHAP  
 - Final ETA prediction by aggregating multiple segments  
-- Cloud deployment using Streamlit Cloud or HuggingFace Spaces  
+- Cloud deployment
 
 ---
 
